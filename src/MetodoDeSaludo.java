@@ -6,4 +6,9 @@ public class MetodoDeSaludo {
      System.out.println("Hola usuario "+nombre);
     }
 
+    public static void adios()
+    {
+        System.out.println("Adios usuario");
+    }
+
 }

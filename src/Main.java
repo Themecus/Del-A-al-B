@@ -4,5 +4,6 @@ public class Main {
     public static void main(String[] args) {
         String nombre="Carlos";
         MetodoDeSaludo.saludo(nombre);
+        MetodoDeSaludo.adios();
     }
 }
