@@ -1,9 +1,9 @@
 public class MetodoDeSaludo {
 
 
-    public static void saludo()
+    public static void saludo(String nombre)
     {
-     System.out.println("Hola usuario");
+     System.out.println("Hola usuario "+nombre);
     }
 
 }
